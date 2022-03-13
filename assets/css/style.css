@@ -40,6 +40,7 @@
 }
 body{
       background:#2c4a52;
+      overflow-x: hidden;
 }
 .container{
     width: 1200px;
